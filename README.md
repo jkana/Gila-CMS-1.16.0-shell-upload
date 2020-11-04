@@ -1,4 +1,6 @@
 # Gila-CMS-1.16.0-shell-upload
+
+Author: jkana
 ----
 1.Login as administrator or any users have logs permission
 
