@@ -1,4 +1,4 @@
-# Gila-CMS-1.16.0-shell-upload
+# Gila-CMS-1.16.0-shell-upload (CVE-2020-28692)
 
 Author: jkana
 ----
